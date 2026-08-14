@@ -23,7 +23,7 @@
 ## 🚀 Hướng dẫn sử dụng chi tiết
 
 ### Bước 1: Khởi chạy Script
-- Click đúp chuột vào file `.bat` (ví dụ: `Install_Software.bat`) để chạy.
+- Click đúp chuột vào file `.bat` (ví dụ: `setup.bat`) để chạy.
 - *(Khuyến nghị)*: Nhấn chuột phải vào file `.bat` và chọn **"Run as administrator"** (Chạy dưới quyền quản trị viên) để đảm bảo không bị lỗi quyền khi cài đặt một số phần mềm hệ thống.
 
 ### Bước 2: Tương tác với Menu
